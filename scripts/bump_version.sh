@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-#
+# this my first edit
 # Bumps the version number to ${1}.
 #
 
